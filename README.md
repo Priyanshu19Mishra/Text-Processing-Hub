@@ -1,5 +1,5 @@
 # Text-Processing-Hub
-Link to research paper: 10.1109/ICICET59348.2024.10616266
+Link to research paper: [10.1109/ICICET59348.2024.10616266](https://ieeexplore.ieee.org/document/10616266/metrics#metrics)
 
 
 An intergrated "Text Processing Platform" for the NLP applications.
