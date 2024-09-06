@@ -1,5 +1,5 @@
 # Text-Processing-Hub
-Link to research paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10616266&isnumber=10616264
+Link to research paper: 10.1109/ICICET59348.2024.10616266
 
 
 An intergrated "Text Processing Platform" for the NLP applications.
