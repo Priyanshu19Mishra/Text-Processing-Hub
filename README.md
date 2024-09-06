@@ -1,5 +1,5 @@
 # Text-Processing-Hub
-
+Link to research paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10616266&isnumber=10616264
 An intergrated "Text Processing Platform" for the NLP applications.
 
 The Text Processing Hub addresses the issue of fragmented NLP tools by providing a user-friendly web platform that includes core Natural Language Processing (NLP) features such as Sentiment Analysis, Text Generation, and Spelling Correction. This study is based on the motivation to highlight the need for a uniform platform for educational contexts, especially given the limitations on chatbots in many institutions. By offering educators and students simply accessible and compatible NLP tools, the platform enables users to harness the power of NLP for a variety of linguistic demands. The emphasis on user experience extends to increasing productivity, streamlining data processing, and assisting in decision-making. Designed with security and scalability in mind, the Text Processing Hub is poised to become an indispensable tool for efficient text-related work across multiple disciplines. Here, we have web development and NLP.
